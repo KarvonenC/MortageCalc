@@ -1,0 +1,10 @@
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\bin\Debug\MortgagePlanApp.exe.config
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\bin\Debug\MortgagePlanApp.exe
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\bin\Debug\MortgagePlanApp.pdb
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\obj\Debug\MortagePlanApp.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\obj\Debug\MortagePlanApp.MortageCalculator.resources
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\obj\Debug\MortgagePlanApp.Properties.Resources.resources
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\obj\Debug\MortagePlanApp.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\obj\Debug\MortagePlanApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\obj\Debug\MortgagePlanApp.exe
+C:\Users\maria\Desktop\CKwork\Codetest-Mortageplan\MortagePlanApp\MortagePlanApp\obj\Debug\MortgagePlanApp.pdb
